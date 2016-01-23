@@ -1,0 +1,13 @@
+somevar: var-value
+anothervar: ignoring
+
+somearray:
+  - 1
+  - 2
+  - 3
+  - 4
+
+somemap:
+  key1: value1
+  key2: value2
+  key3: value3
